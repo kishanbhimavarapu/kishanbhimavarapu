@@ -1,6 +1,7 @@
 - Hi, I’m @kishanbhimavarapu
 - I’m interested in cybersecurity
-- I’m currently learning and developing a robust App-Sec Program
+- I’m currently developing a robust CSPM  Program
+- I’ve deployed an App-Sec program at a large bank.
 - I’m looking to collaborate on anything related to cybersecurity i.e. Security Architecture, RISK, DATA PRIVACY, IAM, PAM and etc.
 - You can reach me on LinkedIn at  https://www.linkedin.com/in/kishan-bhimavarapu
 
